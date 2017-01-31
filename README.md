@@ -7,6 +7,7 @@ Final Project
 General Assembly Part-Time Data Science Course in Python  
 https://github.com/sylvest00/PortoPortugalTaxiPrediction
 
+<br/>
 
 #### Coursera JHU Data Science Specialization Projects  
 **Predict Weightlifting Form**  
