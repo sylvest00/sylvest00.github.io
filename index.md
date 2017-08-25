@@ -1,9 +1,9 @@
 <br/>
 <br/>
 
-Hi! Welcome to my personal web page. It is currently under construction, but feel free to browse my repositories on Github. A few select repositories are listed below:
+Hi! I am S. Sylvester, a doctoral level neuroscientist with experience in data analytics. Welcome to my personal web page. It is currently under construction, but feel free to browse my repositories on Github. A few select repositories are listed below:
 
-# Projects
+## Projects
 
 ### Research (Neuroscience) Related
 **CellFinder**  
